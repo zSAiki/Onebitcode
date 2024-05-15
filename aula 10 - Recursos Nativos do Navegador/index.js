@@ -4,4 +4,8 @@ console.log(nome)
 console.error(nome)
 console.warn(nome)
 
-window.alert("Pega no meu pau")
+// window.alert("Hello world")
+let confirmacao = window.confirm("confirme! ")
+
+console.log(confirmacao)
+
